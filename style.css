@@ -1,0 +1,35 @@
+#container-numbers {
+  width: 100px;
+  height: 40px;
+  background-color: pink;
+  color: darkblue;
+  float: left;
+  margin: 10px;
+  text-align: center;
+  padding-top: 10px;
+  box-shadow: 0px 0px 10px;
+}
+
+button {
+  color: darkblue;
+  width: 100px;
+  height: 30px;
+  box-shadow: 0px 0px 10px;
+  margin-bottom: 20px;
+  margin-left: 900px;
+}
+button:hover {
+  background-color: deeppink;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+}
+
+#principal-div {
+  border: 2px solid black;
+  height: 600px;
+  width: 800px;
+  margin: auto;
+}
